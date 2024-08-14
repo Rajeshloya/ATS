@@ -1,0 +1,18 @@
+2024-06-16T20:47:11.960Z error: Error during user registration: User validation failed: otp: Path `otp` is required.
+2024-06-16T20:48:20.852Z error: Invalid phone number format
+2024-06-16T20:48:34.403Z error: Error during user registration: User validation failed: otp: Path `otp` is required.
+2024-06-16T20:55:03.916Z error: Error during user registration: User validation failed: otp: Path `otp` is required.
+2024-06-16T20:56:47.572Z error: Error during user registration: User validation failed: otp: Path `otp` is required.
+2024-06-16T20:59:56.888Z error: Error during user registration: User validation failed: otp: Path `otp` is required.
+2024-06-16T21:00:58.184Z error: Error during user registration: User validation failed: otp: Path `otp` is required.
+2024-06-22T16:12:48.349Z error: Email is already registered
+2024-06-22T22:58:39.893Z error: Error resetting password: User validation failed: contact_number: Path `contact_number` is required.
+2024-06-22T22:58:52.371Z error: Error resetting password: User validation failed: contact_number: Path `contact_number` is required.
+2024-06-22T23:00:02.365Z error: Error resetting password: User validation failed: contact_number: Path `contact_number` is required.
+2024-06-22T23:00:05.105Z error: Error resetting password: User validation failed: contact_number: Path `contact_number` is required.
+2024-06-22T23:04:21.613Z error: Error resetting password: User validation failed: contact_number: Path `contact_number` is required.
+2024-06-24T22:29:26.416Z error: Email doesn't exist
+2024-06-24T22:31:16.596Z error: Email doesn't exist
+2024-06-27T23:27:16.552Z error: Email doesn't exist
+2024-06-27T23:28:54.387Z error: Email doesn't exist
+2024-06-28T22:52:01.998Z error: Email is already registered
