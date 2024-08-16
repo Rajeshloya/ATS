@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.c4941f77.js",
-    "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
-    "static/media/Pic1.png": "/static/media/Pic1.3595b0c8427d187099a7.png",
-    "index.html": "/index.html",
-    "main.c4941f77.js.map": "/static/js/main.c4941f77.js.map",
-    "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
+    "main.js": "/git@github.com:Rajeshloya/ATS.git/static/js/main.2e077d29.js",
+    "static/js/453.d855a71b.chunk.js": "/git@github.com:Rajeshloya/ATS.git/static/js/453.d855a71b.chunk.js",
+    "static/media/Pic1.png": "/git@github.com:Rajeshloya/ATS.git/static/media/Pic1.3595b0c8427d187099a7.png",
+    "index.html": "/git@github.com:Rajeshloya/ATS.git/index.html",
+    "main.2e077d29.js.map": "/git@github.com:Rajeshloya/ATS.git/static/js/main.2e077d29.js.map",
+    "453.d855a71b.chunk.js.map": "/git@github.com:Rajeshloya/ATS.git/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c4941f77.js"
+    "static/js/main.2e077d29.js"
   ]
 }
